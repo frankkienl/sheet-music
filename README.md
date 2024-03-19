@@ -35,3 +35,4 @@ Songs
 | Hoedje van papier        | Yes                             | Yes            | https://github.com/frankkienl/sheet-music/blob/main/hoedje_van_papier.pdf |
 | Ode to the joy           | Yes (first part)                | No             | https://github.com/frankkienl/sheet-music/blob/main/ode_to_the_joy.pdf |
 | Vader Jacob              | No (missing lower G)            | Yes            | https://github.com/frankkienl/sheet-music/blob/main/vader_jacob.pdf |
+| Wooden heart             | Yes                             | Yes            | https://github.com/frankkienl/sheet-music/blob/main/wooden_heart.pdf |
