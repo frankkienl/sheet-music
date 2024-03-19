@@ -22,3 +22,16 @@ What is an ocarina?
 
 It's a musical instrument, I printed one with my 3D printer.
 See: https://www.printables.com/model/65399-12-hole-playable-ocarina
+
+
+Songs
+-----
+
+| **Title**                | **Compatible with the ocarina** | **Has lyrics** | **Link to PDF** |
+|--------------------------|---------------------------------|----------------|-----------------|
+| Zag 2 beren              | Yes                             | Yes            | https://github.com/frankkienl/sheet-music/blob/main/Zag%202%20beren.pdf |
+| Altijd is Kortjakje ziek | Yes                             | Yes            | https://github.com/frankkienl/sheet-music/blob/main/altijd_is_kortjakje_ziek.pdf |
+| Berend Botje             | No                              | Yes            | https://github.com/frankkienl/sheet-music/blob/main/berend_botje.pdf |
+| Hoedje van papier        | Yes                             | Yes            | https://github.com/frankkienl/sheet-music/blob/main/hoedje_van_papier.pdf |
+| Ode to the joy           | Yes (first part)                | No             | https://github.com/frankkienl/sheet-music/blob/main/ode_to_the_joy.pdf |
+| Vader Jacob              | No (missing lower G)            | Yes            | https://github.com/frankkienl/sheet-music/blob/main/vader_jacob.pdf |
