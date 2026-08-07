@@ -1,14 +1,13 @@
 # sheet-music
+
 Sheet music by frankkienl
 
 Why
 ---
 
-I want to learn to play the ocarina. 
-And I wanted to start with some simple songs. 
-Children's songs are simple.
-But the sheet music I could find was mostly made for piano, and/or didn't contain lyrics.
-Therefore I made these versions, that should be easy to play on the ocarina and also have lyrics.
+I want to learn to play the ocarina. And I wanted to start with some simple songs. Children's songs are simple. But the
+sheet music I could find was mostly made for piano, and/or didn't contain lyrics. Therefore I made these versions, that
+should be easy to play on the ocarina and also have lyrics.
 
 How
 ---
@@ -27,13 +26,18 @@ See: https://www.printables.com/model/65399-12-hole-playable-ocarina
 Songs
 -----
 
-| **Title**                | **Compatible with the ocarina** | **Has lyrics** | **Link to PDF** |
-|--------------------------|---------------------------------|----------------|-----------------|
-| Zag 2 beren              | Yes                             | Yes            | https://github.com/frankkienl/sheet-music/blob/main/Zag%202%20beren.pdf |
-| Altijd is Kortjakje ziek | Yes                             | Yes            | https://github.com/frankkienl/sheet-music/blob/main/altijd_is_kortjakje_ziek.pdf |
-| Twinkle Twinkle Little Star | Yes | Yes | https://github.com/frankkienl/sheet-music/blob/main/twinkle_twinkle_little_star.pdf |
-| Berend Botje             | No                              | Yes            | https://github.com/frankkienl/sheet-music/blob/main/berend_botje.pdf |
-| Hoedje van papier        | Yes                             | Yes            | https://github.com/frankkienl/sheet-music/blob/main/hoedje_van_papier.pdf |
-| Ode to the joy           | Yes (first part)                | No             | https://github.com/frankkienl/sheet-music/blob/main/ode_to_the_joy.pdf |
-| Vader Jacob              | No (missing lower G)            | Yes            | https://github.com/frankkienl/sheet-music/blob/main/vader_jacob.pdf |
-| Wooden heart             | Yes                             | Yes            | https://github.com/frankkienl/sheet-music/blob/main/wooden_heart.pdf |
+| **Title**                   | **Compatible with the ocarina** | **Has lyrics** | **Link to PDF**                                                                     |
+|-----------------------------|---------------------------------|----------------|-------------------------------------------------------------------------------------|
+| Auld Lang Syne              | Yes                             | Yes            | https://github.com/frankkienl/sheet-music/blob/main/auld_lang_syne.pdf              |
+| Happy Birthday To You       | Yes                             | Yes            | https://github.com/frankkienl/sheet-music/blob/main/happy_birthday_to_you.pdf       |
+| Happy New Year              | Yes                             | Yes            | https://github.com/frankkienl/sheet-music/blob/main/happy_new_year.pdf              |
+| Pallet Town (Pokemon)       | Yes (transposed)                | No             | https://github.com/frankkienl/sheet-music/blob/main/pallet_town_transposed.pdf      |
+| Wooden heart                | Yes                             | Yes            | https://github.com/frankkienl/sheet-music/blob/main/wooden_heart.pdf                |
+| Twinkle Twinkle Little Star | Yes                             | Yes            | https://github.com/frankkienl/sheet-music/blob/main/twinkle_twinkle_little_star.pdf |
+| Altijd is Kortjakje ziek    | Yes                             | Yes            | https://github.com/frankkienl/sheet-music/blob/main/altijd_is_kortjakje_ziek.pdf    |
+| Berend Botje                | No                              | Yes            | https://github.com/frankkienl/sheet-music/blob/main/berend_botje.pdf                |
+| Hoedje van papier           | Yes                             | Yes            | https://github.com/frankkienl/sheet-music/blob/main/hoedje_van_papier.pdf           |
+| Ode to the joy              | Yes (first part)                | No             | https://github.com/frankkienl/sheet-music/blob/main/ode_to_the_joy.pdf              |
+| Vader Jacob                 | No (missing lower G)            | Yes            | https://github.com/frankkienl/sheet-music/blob/main/vader_jacob.pdf                 |
+| Zag 2 beren                 | Yes                             | Yes            | https://github.com/frankkienl/sheet-music/blob/main/Zag%202%20beren.pdf             |
+
