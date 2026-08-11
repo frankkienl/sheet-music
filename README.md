@@ -1,6 +1,6 @@
 # sheet-music
 
-Sheet music for various sources, converted to PDF by frankkienl
+Sheet music from various sources, converted to PDF by frankkienl
 
 Why
 ---
