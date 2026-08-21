@@ -21,8 +21,9 @@
     piece = \markup { \vspace #'1 \fill-line { \bold \huge "Epona's Song" } }
   }
  \relative c' {
-   c'4 g4 a2 | c4 g4 a2 \bar "|."
+   c'4 a4 g2 | c4 a4 g2 \bar "|."
   }
+
 }
 
 \score {
@@ -71,7 +72,7 @@
   }
  \relative c' {
     \time 4/4
-    c4 d'4 a4 g4 a4 g4 r2  \bar "|."
+    c4 c'4 a4 g4 a4 g4 r2  \bar "|."
   }
 }
 
